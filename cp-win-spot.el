@@ -1,4 +1,4 @@
-;;; cp-win-spot.el --- script for copying Windows Spotlight -*- Emacs-Lisp -*-
+;;; cp-win-spot.el --- script for copying Windows Spotlight images -*- Emacs-Lisp -*-
 
 ;; Copyright (C) 2021 suyeden
 
