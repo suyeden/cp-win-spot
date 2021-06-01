@@ -5,6 +5,9 @@
 #+STARTUP: showall
 
 * cp-win-spot
+
+  [![GitHub license](https://img.shields.io/github/license/suyeden/cp-win-spot?color=blue)](https://github.com/suyeden/cp-win-spot/blob/master/LICENSE)
+
   ~cp-win-spot.el~ は Windows Spotlight の画像を任意のディレクトリに保存するためのスクリプトです。
   Windows のログイン画面に出てくる綺麗な画像を手軽に保存することができます。
 
